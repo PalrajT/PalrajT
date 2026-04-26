@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Palraj%20T&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Practitioner%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=a8d8ea" width="100%"/>
@@ -24,15 +24,17 @@ class PalrajT:
     def __init__(self):
         self.name       = "Palraj T"
         self.location   = "Coimbatore, Tamil Nadu 🇮🇳"
-        self.role       = "AI / ML Engineer & Full-Stack Developer"
+        self.education  = "B.E. Computer Science & Engineering — Final Year"
+        self.college    = "Info Institute of Engineering"
+        self.role       = "Aspiring AI/ML Engineer & Full-Stack Developer"
         self.focus      = ["Large Language Models", "RAG Systems",
                            "Predictive Analytics", "Web Applications"]
-        self.languages  = ["Python", "JavaScript", "TypeScript", "HTML/CSS"]
-        self.currently  = "Building AI-powered solutions for real-world problems"
+        self.languages  = ["Python", "JavaScript", "HTML/CSS"]
+        self.currently  = "Building AI-powered capstone projects & sharpening ML skills"
         self.ask_me     = "Anything about AI, ML pipelines, or backend architecture"
 
     def greet(self):
-        return "Let's build something impactful together! 🤝"
+        return "Final year student. Infinite curiosity. Let's build! 🚀"
 ```
 
 ---
@@ -142,9 +144,9 @@ class PalrajT:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/palrajt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palraj-t/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PalrajT)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palrajt@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palraj.thomas04@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/PalrajT)
 
 > 💬 *"Code is not just instructions for machines — it's a canvas for ideas."*
@@ -158,4 +160,3 @@ class PalrajT:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
-](https://www.linkedin.com/in/palraj-t/)
