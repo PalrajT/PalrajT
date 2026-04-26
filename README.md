@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Palraj%20T&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Practitioner%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=a8d8ea" width="100%"/>
@@ -158,3 +158,4 @@ class PalrajT:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
+](https://www.linkedin.com/in/palraj-t/)
