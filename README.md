@@ -23,7 +23,7 @@
 class PalrajT:
     def __init__(self):
         self.name       = "Palraj T"
-        self.location   = "Coimbatore, Tamil Nadu 🇮🇳"
+        self.location   = "Coimbatore, Tamil Nadu ,India"
         self.education  = "B.E. Computer Science & Engineering — Final Year"
         self.college    = "Info Institute of Engineering"
         self.role       = "Aspiring AI/ML Engineer & Full-Stack Developer"
