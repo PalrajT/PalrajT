@@ -23,7 +23,7 @@
 class PalrajT:
     def __init__(self):
         self.name       = "Palraj T"
-        self.location   = "Coimbatore, Tamil Nadu ,India"
+        self.location   = "Coimbatore, Tamil Nadu 🇮🇳"
         self.education  = "B.E. Computer Science & Engineering — Final Year"
         self.college    = "Info Institute of Engineering"
         self.role       = "Aspiring AI/ML Engineer & Full-Stack Developer"
@@ -83,7 +83,9 @@ class PalrajT:
 
 | 🔬 Project | 📝 Description | 🛠 Stack |
 |:-----------|:---------------|:---------|
+| [**🤖 AI Agent Orchestrater**](https://github.com/PalrajT/AI-Agent-Orchestrater) | Framework for orchestrating and managing intelligent AI agents and workflows | `TypeScript` `Agentic AI` `LLMs` |
 | [**🤖 RAG Code Review System**](https://github.com/PalrajT/Retrieval-Augmented-Code-Review-System) | AI-powered code review using RAG with GPT-4o & Llama-3-8B for dual-mode intelligent feedback | `Python` `LangChain` `GPT-4o` `Llama-3` `RAG` |
+| [**📄 Financial Document Analyzer**](https://github.com/PalrajT/financial-document-analyzer-debugged) | Automated parsing and analysis of financial documents for key insights | `Python` `Data Extraction` |
 | [**🏥 Healthcare No-Show Predictor**](https://github.com/PalrajT/Healthcare-Appointment-No-Show-Prediction) | ML model + Power BI dashboard predicting healthcare appointment no-shows with actionable insights | `Python` `scikit-learn` `Power BI` `Pandas` |
 | [**💰 Finance Access Control Backend**](https://github.com/PalrajT/Finance-Data-Processing-and-Access-Control-Backend) | RBAC-enabled financial backend with full auth, analytics APIs & SQLAlchemy ORM | `FastAPI` `SQLAlchemy` `SQLite` `RBAC` |
 | [**🎓 EduTrust**](https://github.com/PalrajT/EduTrust) | Decentralized education trust platform for credential verification and academic records | `JavaScript` `Web3` |
